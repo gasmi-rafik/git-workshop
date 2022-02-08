@@ -1,0 +1,54 @@
+
+h1{
+    color : red
+}
+  
+p{
+    color: green;
+   
+  }
+
+  a{
+      color: lightgreen;
+      padding: 5px;
+  }
+
+  nav p {
+      font: 1em sans-serif;
+  }
+
+  header{
+      background-color: lightslategray;
+  }
+  #logo{
+    color:  whitesmoke
+  }
+
+  .hearder-second-part{
+      margin-left: 80%;
+      margin-bottom: 50%;
+      margin-bottom: 30px;
+      padding-bottom: 30%;
+  }
+  
+  .hearder-first-part{
+      margin-right: -50%;
+  }
+  img{
+      height: 300px;
+      width: 300px;
+      padding-left: 50%;
+      padding-top: 20%;
+  }
+
+  body {
+      background-color: #FAEEE7;
+  }
+
+  table {
+      border: 1px solid red ;
+  }
+
+  footer {
+    background-color: lightslategray;
+  }
